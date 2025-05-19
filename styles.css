@@ -1,0 +1,22 @@
+bady
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: skyblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
